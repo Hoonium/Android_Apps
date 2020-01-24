@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleButton</string>
+    <string name="radio1">Genesis</string>
+    <string name="radio2">Mustang</string>
+    <string name="radio3">Lamborghini</string>
+    <string name="radio4">Bentley</string>
+    <string name="box1">하루 종일</string>
+    <string name="text1">Select your favorite to drive ...</string>
+</resources>
